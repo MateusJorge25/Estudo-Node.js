@@ -1,4 +1,4 @@
-var soma = function (a,b) {
+let soma = function (a,b) {
     return a+b;
 }
 
