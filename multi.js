@@ -1,4 +1,4 @@
-var multi = function (a,b) {
+let multi = function (a,b) {
     return a*b;
 }
 

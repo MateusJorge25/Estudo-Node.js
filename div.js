@@ -1,4 +1,4 @@
-var div = function (a,b) {
+let div = function (a,b) {
     return a/b;
 }
 

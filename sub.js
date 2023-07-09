@@ -1,4 +1,4 @@
-var sub =  function (a,b) {
+let sub =  function (a,b) {
     return a-b;
 }
 
